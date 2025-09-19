@@ -1,4 +1,4 @@
-# John Doe Railway Company Registration App
+# Railway Company Registration App
 
 This is a simple React application that demonstrates how to register a company with the John Doe Railway Server API.
 
